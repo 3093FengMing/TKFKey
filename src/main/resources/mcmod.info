@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tkfkey",
+  "name": "TKF Key",
+  "description": "TKF Key",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["FengMing3093"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
